@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Architajb/Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Architajb/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/Architajb/Leetcode-solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Architajb/Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [1492-the-kth-factor-of-n](https://github.com/Architajb/Leetcode-solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +47,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Architajb/Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Architajb/Leetcode-solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
