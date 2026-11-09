@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/Architajb/Leetcode-solutions/tree/master/0018-4sum) |
 | [0204-count-primes](https://github.com/Architajb/Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Architajb/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Architajb/Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Architajb/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
