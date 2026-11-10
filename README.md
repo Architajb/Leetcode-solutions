@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Architajb/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/Architajb/Leetcode-solutions/tree/master/0018-4sum) |
 | [0204-count-primes](https://github.com/Architajb/Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Architajb/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -51,4 +52,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Architajb/Leetcode-solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Architajb/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
