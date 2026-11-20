@@ -60,4 +60,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Architajb/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [2325-decode-the-message](https://github.com/Architajb/Leetcode-solutions/tree/main/2325-decode-the-message/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2325-decode-the-message](https://github.com/Architajb/Leetcode-solutions/tree/main/2325-decode-the-message/) | Easy |
 <!---LeetCode Topics End-->
