@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Architajb/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0204-count-primes](https://github.com/Architajb/Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Architajb/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Architajb/Leetcode-solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | [0204-count-primes](https://github.com/Architajb/Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Architajb/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Architajb/Leetcode-solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Architajb/Leetcode-solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
