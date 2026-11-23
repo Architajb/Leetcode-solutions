@@ -64,5 +64,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Architajb/Leetcode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2325-decode-the-message](https://github.com/Architajb/Leetcode-solutions/tree/main/2325-decode-the-message/) | Easy |
 <!---LeetCode Topics End-->
