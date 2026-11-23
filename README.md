@@ -66,4 +66,13 @@
 | ------- | ------- |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Architajb/Leetcode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2325-decode-the-message](https://github.com/Architajb/Leetcode-solutions/tree/main/2325-decode-the-message/) | Easy |
+| [3174-clear-digits](https://github.com/Architajb/Leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3174-clear-digits](https://github.com/Architajb/Leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3174-clear-digits](https://github.com/Architajb/Leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
 <!---LeetCode Topics End-->
