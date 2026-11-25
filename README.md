@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Architajb/Leetcode-solutions/tree/master/0018-4sum) |
+| [2785-sort-vowels-in-a-string](https://github.com/Architajb/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | ------- | ------- |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Architajb/Leetcode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2325-decode-the-message](https://github.com/Architajb/Leetcode-solutions/tree/main/2325-decode-the-message/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/Architajb/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/Architajb/Leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
